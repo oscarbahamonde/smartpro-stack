@@ -1,0 +1,4 @@
+env.tf.json
+app/.vscode
+app/node_modules
+app/dist
